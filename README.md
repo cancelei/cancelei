@@ -1,6 +1,6 @@
-My name is Glauber Bannwart
+My name is **Glauber Bannwart**!!
 
-Here are my Stats:
+**Here are my Stats**
 
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=cancelei&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
