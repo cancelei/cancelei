@@ -1,4 +1,4 @@
-My name is **Glauber Bannwart**!!
+My name is **Glauber Bannwart**!! Read more about me on the left-side pane.
 
 **Here are my Stats**
 
