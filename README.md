@@ -17,7 +17,7 @@ My name is **Glauber Bannwart**!! Read more about me on the left-side pane.
 
 ## 🚀 Flukebase Projects
 
-[![Flukebase](https://github-strike.flukebase.me/api/flukebase/cancelei?theme=ember)](https://flukebase.me)
+[![Flukebase](https://github-strike.flukebase.me/api/flukebase/glauber-bannwart?theme=ember)](https://flukebase.me)
 
 ---
 
