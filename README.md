@@ -2,22 +2,32 @@ My name is **Glauber Bannwart**!! Read more about me on the left-side pane.
 
 ## ⚡ GitHub Strike Stats
 
-[![GitHub Strike](https://github-strike.flukebase.me/api/strike/cancelei?theme=ember)](https://github-strike.flukebase.me)
+<a href="https://github-strike.flukebase.me">
+  <img src="https://github-strike.flukebase.me/api/strike/cancelei?theme=ember" alt="GitHub Strike" width="495" height="195" />
+</a>
 
 <details>
 <summary>📊 More Stats</summary>
 
-[![Languages](https://github-strike.flukebase.me/api/languages/cancelei?layout=compact&theme=ember)](https://github-strike.flukebase.me)
+<a href="https://github-strike.flukebase.me">
+  <img src="https://github-strike.flukebase.me/api/languages/cancelei?layout=compact&theme=ember" alt="Languages" width="400" height="100" />
+</a>
 
-[![Achievements](https://github-strike.flukebase.me/api/achievements/cancelei?theme=ember)](https://github-strike.flukebase.me)
+<a href="https://github-strike.flukebase.me">
+  <img src="https://github-strike.flukebase.me/api/achievements/cancelei?theme=ember" alt="Achievements" width="495" height="250" />
+</a>
 
-[![Streak](https://github-strike.flukebase.me/api/streak/cancelei?theme=ember)](https://github-strike.flukebase.me)
+<a href="https://github-strike.flukebase.me">
+  <img src="https://github-strike.flukebase.me/api/streak/cancelei?theme=ember" alt="Streak" width="400" height="150" />
+</a>
 
 </details>
 
 ## 🚀 Flukebase Projects
 
-[![Flukebase](https://github-strike.flukebase.me/api/flukebase/glauber-bannwart?theme=ember)](https://flukebase.me)
+<a href="https://flukebase.me">
+  <img src="https://github-strike.flukebase.me/api/flukebase/glauber-bannwart?theme=ember" alt="Flukebase" width="495" height="280" />
+</a>
 
 ---
 
