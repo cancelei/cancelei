@@ -3,13 +3,13 @@ My name is **Glauber Bannwart**!! Read more about me on the left-side pane.
 ## GitHub Strike Stats
 
 <a href="https://github-strike.flukebase.me">
-  <img src="https://github-strike.flukebase.me/api/strike/cancelei?v=3" alt="GitHub Strike" />
+  <img src="https://github-strike.flukebase.me/api/strike/cancelei?v=4" alt="GitHub Strike" />
 </a>
 
 ## Flukebase
 
 <a href="https://flukebase.me">
-  <img src="https://github-strike.flukebase.me/api/flukebase/cancelei?v=3" alt="Flukebase Profile" />
+  <img src="https://github-strike.flukebase.me/api/flukebase/cancelei?v=4" alt="Flukebase Profile" />
 </a>
 
 ---
